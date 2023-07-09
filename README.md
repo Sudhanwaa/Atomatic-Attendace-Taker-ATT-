@@ -24,7 +24,14 @@
 ### Screenshots
 
 ### Simple UI
-<img src='https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/1.PNG'>
+###### English
+![ATT English](https://github.com/Sudhanwaa/Atomatic-Attendace-Taker-ATT-/assets/92940618/0bf3148b-b412-4bd4-85c6-e4edd588d7ef)
+
+###### Hindi
+![ATT Hindi](https://github.com/Sudhanwaa/Atomatic-Attendace-Taker-ATT-/assets/92940618/99987866-787c-4a99-bd7f-f9bed7511d6b)
+
+
+
 
 ### While taking Image
 ![Screenshot (103)](https://user-images.githubusercontent.com/26384517/86820502-c7f44500-c0a6-11ea-9530-6317ec2059d9.png)
